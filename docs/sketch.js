@@ -69,7 +69,7 @@ function setClockBackgroundColor(time) {
   let theColor;
  
   if (time === "morning") {
-    theColor = "rgb(200,200,103)";
+    theColor = "rgb(175,118,103)";
   } else if (time === "afternoon") {
     theColor = "rgb(240,194,192)";
   } else if (time === "evening") {
